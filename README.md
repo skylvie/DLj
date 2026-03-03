@@ -14,7 +14,7 @@ A CLI for downloading everything you can on [PKGj](https://github.com/blastrock/
 
 ## Installation
 ```sh
-$ npm i dlj
+$ npm i @skylvi/dlj
 ```
 Or if you want to run from source:
 ```sh
